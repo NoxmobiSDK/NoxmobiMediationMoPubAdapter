@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NoxmobiMediationMoPubAdapter"
-  spec.version      = "5.13.1.1" # Mark
+  spec.version      = "5.14.1.0" # Mark
   spec.summary      = "Noxmobi ad mediation adapter for MoPub."
   spec.homepage     = "https://github.com/NoxmobiSDK/NoxmobiMediationMoPubAdapter"
   spec.license      = "MIT"
@@ -15,6 +15,6 @@ Pod::Spec.new do |spec|
   spec.ios.vendored_frameworks = 'NoxmobiMediationMoPubAdapter.framework'
   spec.requires_arc = true
 
-  spec.dependency "mopub-ios-sdk", "5.13.1"
+  spec.dependency "mopub-ios-sdk", "5.14.1"
 
 end
