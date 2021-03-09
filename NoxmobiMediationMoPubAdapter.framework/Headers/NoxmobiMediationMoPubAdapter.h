@@ -9,6 +9,6 @@
 
 #import <Foundation/Foundation.h>
 
-#define NoxmobiMediationMoPubAdapterVersion @"5.15.0.0"
+#define NoxmobiMediationMoPubAdapterVersion @"5.16.1.0"
 
 
